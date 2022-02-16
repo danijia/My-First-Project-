@@ -1,0 +1,43 @@
+           body {
+               background-color: black;
+               font-family: 'Barlow', sans-serif;
+           }
+           
+           .navbar-brand {
+               color: yellow;
+           }
+           
+           #mainNavbar .nav-link {
+               color: yellow;
+           }
+           
+           .color {
+               color: yellow;
+           }
+           
+           .blab {
+               color: yellow;
+               padding-top: 100px;
+           }
+           
+           img {
+               padding-top: 60px;
+               max-width: 100%;
+               width: 25rem;
+               height: auto;
+           }
+           
+           .danijia {
+               font-weight: bold;
+           }
+           
+           .btn-custom {
+               color: black;
+               background-color: yellow;
+               margin: auto;
+               padding: 15px 32px;
+           }
+           
+           p {
+               line-height: 2rem;
+           }
